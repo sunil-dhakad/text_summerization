@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.1
+Summary: A small python package for text summerization app
+Home-page: https://github.com/sunil-dhakad/text_summerization
+Author: sunil-dhakad
+Author-email: 0to1.sunil@gmail.com
+Project-URL: Bug Tracker, https://github.com/sunil-dhakad/text_summerization/issues
+License-File: LICENSE
+
+# text_summerization
