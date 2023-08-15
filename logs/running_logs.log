@@ -1,0 +1,39 @@
+[2023-08-15 22:49:54,020: INFO: main: >>>>>>>>>>>>>>>>>>stage  Data_ingestion_Stage started <<<<<<<<<<<]
+[2023-08-15 22:49:54,022: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-15 22:50:50,090: INFO: main: >>>>>>>>>>>>>>>>>>stage  Data_ingestion_Stage started <<<<<<<<<<<]
+[2023-08-15 22:50:50,091: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-15 22:52:12,573: INFO: main: >>>>>>>>>>>>>>>>>>stage  Data_ingestion_Stage started <<<<<<<<<<<]
+[2023-08-15 22:52:12,575: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-15 22:52:12,576: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-15 23:02:58,015: INFO: main: >>>>>>>>>>>>>>>>>>stage  Data_ingestion_Stage started <<<<<<<<<<<]
+[2023-08-15 23:02:58,017: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-15 23:02:58,018: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-15 23:02:58,021: INFO: common: created directory at: artifacts]
+[2023-08-15 23:02:58,021: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-15 23:03:12,937: INFO: data_ingestion: artifacts/data_ingestion/data.zip is downloaded with info 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B098:3B42BB:82362:C5C19:64DBB6CB
+Accept-Ranges: bytes
+Date: Tue, 15 Aug 2023 17:33:01 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ccu830045-CCU
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1692120779.276998,VS0,VE1925
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 1df08fb75c764e7b3af7570860dd2c73c731e9e9
+Expires: Tue, 15 Aug 2023 17:38:01 GMT
+Source-Age: 2
+
+]
