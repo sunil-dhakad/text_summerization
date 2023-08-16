@@ -37,3 +37,88 @@ Expires: Tue, 15 Aug 2023 17:38:01 GMT
 Source-Age: 2
 
 ]
+[2023-08-16 14:33:36,018: INFO: main: >>>>>>>>>>>>>>>>>>stage  Data_ingestion_Stage started <<<<<<<<<<<]
+[2023-08-16 14:33:36,023: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-16 14:33:36,024: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-16 14:33:36,025: INFO: common: created directory at: artifacts]
+[2023-08-16 14:33:36,025: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-16 14:34:00,497: INFO: data_ingestion: artifacts/data_ingestion/data.zip is downloaded with info 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 913C:3B34A1:D3F6F:13F833:64DC90E8
+Accept-Ranges: bytes
+Date: Wed, 16 Aug 2023 09:03:38 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ccu830042-CCU
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1692176618.819536,VS0,VE1009
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 3e0e4c25e258fcb927837a11e2f1ea148eab97a9
+Expires: Wed, 16 Aug 2023 09:08:38 GMT
+Source-Age: 1
+
+]
+[2023-08-16 14:36:31,484: INFO: main: >>>>>>>>>>>>>>>>>>stage  Data_ingestion_Stage started <<<<<<<<<<<]
+[2023-08-16 14:36:31,487: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-16 14:36:31,489: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-16 14:36:31,489: INFO: common: created directory at: artifacts]
+[2023-08-16 14:36:31,490: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-16 14:36:31,491: INFO: data_ingestion: file alleardy exists of size: ~ 7718 KB]
+[2023-08-16 14:36:56,641: INFO: main: >>>>>>>>>>>>>>>>>>stage  Data_ingestion_Stage started <<<<<<<<<<<]
+[2023-08-16 14:36:56,643: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-16 14:36:56,643: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-16 14:36:56,644: INFO: common: created directory at: artifacts]
+[2023-08-16 14:36:56,644: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-16 14:36:56,644: INFO: data_ingestion: file alleardy exists of size: ~ 7718 KB]
+[2023-08-16 14:36:56,846: INFO: main: >>>>>>>>>>>>>   stage Data_ingestion_Stage completed <<<<<<<<<<<<<<<<<<]
+[2023-08-16 14:36:56,847: INFO: main:  >>>>>>>>>>>>>>  stage : data_validation_stage started  <<<<<<<<<<<<<<<<<<<<<<]
+[2023-08-16 14:36:56,848: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-16 14:36:56,849: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-16 14:36:56,849: INFO: common: created directory at: artifacts]
+[2023-08-16 14:59:18,779: INFO: main: >>>>>>>>>>>>>>>>>>stage  Data_ingestion_Stage started <<<<<<<<<<<]
+[2023-08-16 14:59:18,781: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-16 14:59:18,783: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-16 14:59:18,783: INFO: common: created directory at: artifacts]
+[2023-08-16 14:59:18,783: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-16 14:59:18,784: INFO: data_ingestion: file alleardy exists of size: ~ 7718 KB]
+[2023-08-16 14:59:19,076: INFO: main: >>>>>>>>>>>>>   stage Data_ingestion_Stage completed <<<<<<<<<<<<<<<<<<]
+[2023-08-16 14:59:19,076: INFO: main:  >>>>>>>>>>>>>>  stage : data_validation_stage started  <<<<<<<<<<<<<<<<<<<<<<]
+[2023-08-16 14:59:19,078: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-16 14:59:19,079: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-16 14:59:19,079: INFO: common: created directory at: artifacts]
+[2023-08-16 15:01:52,821: INFO: main: >>>>>>>>>>>>>>>>>>stage  Data_ingestion_Stage started <<<<<<<<<<<]
+[2023-08-16 15:01:52,824: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-16 15:01:52,825: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-16 15:01:52,825: INFO: common: created directory at: artifacts]
+[2023-08-16 15:01:52,825: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-16 15:01:52,825: INFO: data_ingestion: file alleardy exists of size: ~ 7718 KB]
+[2023-08-16 15:01:53,072: INFO: main: >>>>>>>>>>>>>   stage Data_ingestion_Stage completed <<<<<<<<<<<<<<<<<<]
+[2023-08-16 15:01:53,072: INFO: main:  >>>>>>>>>>>>>>  stage : data_validation_stage started  <<<<<<<<<<<<<<<<<<<<<<]
+[2023-08-16 15:01:53,075: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-16 15:01:53,075: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-16 15:01:53,076: INFO: common: created directory at: artifacts]
+[2023-08-16 15:01:53,076: INFO: common: created directory at: artifacts/data_validation]
+[2023-08-16 15:19:28,597: INFO: main: >>>>>>>>>>>>>>>>>>stage  Data_ingestion_Stage started <<<<<<<<<<<]
+[2023-08-16 15:19:28,601: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-16 15:19:28,603: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-16 15:19:28,603: INFO: common: created directory at: artifacts]
+[2023-08-16 15:19:28,603: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-16 15:19:28,604: INFO: data_ingestion: file alleardy exists of size: ~ 7718 KB]
+[2023-08-16 15:19:28,851: INFO: main: >>>>>>>>>>>>>   stage Data_ingestion_Stage completed <<<<<<<<<<<<<<<<<<]
+[2023-08-16 15:19:28,851: INFO: main:  >>>>>>>>>>>>>>  stage : data_validation_stage started  <<<<<<<<<<<<<<<<<<<<<<]
+[2023-08-16 15:19:28,854: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-16 15:19:28,855: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-16 15:19:28,855: INFO: common: created directory at: artifacts]
+[2023-08-16 15:19:28,855: INFO: common: created directory at: artifacts/data_validation]
+[2023-08-16 15:19:28,857: INFO: main: >>>>>>>>>>>>>>>>>> STAGE: data_validation_stage  started   <<<<<<<<<<<<<<<<<<<]
